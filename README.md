@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Awny Ameen</h1>
-<h3 align="center">.Net Developer from Egypt</h3>
+<h3 align="center">.Net Developer From Egypt</h3>
 
 - 🔭 I’m currently working on [it-blocks.com](https://it-blocks.com/)
 
