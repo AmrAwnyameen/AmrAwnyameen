@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [it-blocks.com](https://it-blocks.com/)
 
-- 📄 Know about my experiences [Cv](shorturl.at/bhMQZ)
+- 📄 Know about my experiences [Cv](https://drive.google.com/file/d/1RwkP3wDgsOf8w89Q2al8qMsMe-PhraJY/view)
 
 - 📫 How to reach me **amr.awnyameen@gmail.com**
 
