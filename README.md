@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amr Awny Ameen</h1>
-<h3 align="center">.NET developer with 4+ years of experience. Skilled in ASP.NET MVC, and client-side web development. worked on 10+ projects Secure ,Developed and maintained .NET and java  applications with 100% client satisfaction..</h3>
+<h3 align="center">
+ .NET developer with 4+ years of experience. Skilled in ASP.NET MVC, and client-side web development. 
+  worked on 10+ projects Secure ,Developed and maintained .NET and java  applications 
+</h3>
 
 - 🔭 I’m currently working on [it-blocks.com](https://it-blocks.com/)
 
