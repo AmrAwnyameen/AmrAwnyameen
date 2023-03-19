@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [it-blocks.com](https://it-blocks.com/)
 
-- 📄 Know about my experiences [Cv](https://drive.google.com/file/d/1v8dt4m8Hv95rmVbQd5ICryRQLvUWeJZH/view?usp=sharing)
+- 📄 Know about my experiences [Cv](https://drive.google.com/file/d/1sdTTllkU7t0sSp4S02uD1Sspi4RJ6jz3/view?usp=sharing)
 
 - 📫 How to reach me **amr.awnyameen@gmail.com**
 
