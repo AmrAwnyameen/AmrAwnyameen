@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amr Awny Ameen</h1>
 <h3 align="center">
-.NET developer with over 5 years of experience in ASP.NET MVC and client-side web development. Skilled in
+Senior .NET developer with over 5 years of experience in ASP.NET MVC and client-side web development. Skilled in
 developing secure, high-performance applications and working on over 10+ projects. Passionate about the
 strategies in Egypt and other countries in transforming government services and community ecosystems into a
 digital and data-driven ecosystem to provide public services in a faster and simpler way.
