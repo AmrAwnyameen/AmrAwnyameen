@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Tahaluf Al Emarat ](https://www.tahaluf.ai)
 
-- 📄 Know about my experiences [Cv](https://drive.google.com/file/d/1F48V4n6U-vgE0rhcnVKkzvCPTW-PWMWz/view?usp=sharing)
+- 📄 Know about my experiences [Cv](https://drive.google.com/file/d/12b3-2rj-e_pNJpCdqoHNlG5mjDUmp_V7/view?usp=sharing)
 
 - 📫 How to reach me **amr.awnyameen@gmail.com**
 
