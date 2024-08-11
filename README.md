@@ -8,7 +8,7 @@ digital and data-driven ecosystem to provide public services in a faster and sim
 
 - 🔭 I’m currently working on [Tahaluf Al Emarat ](https://www.tahaluf.ai)
 
-- 📄 Know about my experiences [Cv](https://drive.google.com/file/d/1CuQjiCvJLry87BnQSZqX98iCDURRzGeF/view?usp=sharing)
+- 📄 Know about my experiences [Cv](https://drive.google.com/file/d/1CuQjiCvJLry87BnQSZqX98iCDURRzGeF/view)
 
 - 📫 How to reach me **amr.awnyameen@gmail.com**
 
