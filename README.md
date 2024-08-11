@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amr Awny Ameen</h1>
 <h3 align="center">
-Senior .NET developer with over 5 years of experience in ASP.NET MVC and client-side web development. Skilled in
-developing secure, high-performance applications and working on over 10+ projects. Passionate about the
-strategies in Egypt and other countries in transforming government services and community ecosystems into a
-digital and data-driven ecosystem to provide public services in a faster and simpler way.
+Senior .NET Developer with over 5 years of experience specializing in the .net stack, including C#, .net core, .net mvc,
+and as well as client-side web development. Adept at developing secure, high-performance applications, with a
+proven track record of successfully delivering over 10 projects. Passionate about leveraging strategies in Egypt and
+other countries to transform government services and community ecosystems into digital, data-driven systems,
+aiming to enhance public service delivery in a faster and more efficient manner.
 </h3>
 
 - 🔭 I’m currently working on [Tahaluf Al Emarat ](https://www.tahaluf.ai)
 
-- 📄 Know about my experiences [Cv](https://drive.google.com/file/d/1CuQjiCvJLry87BnQSZqX98iCDURRzGeF/view)
+- 📄 Know about my experiences [Cv](https://drive.google.com/file/d/1uS8fkBErZfG_SRBH_hgMpRNQotHFhEs-/view)
 
 - 📫 How to reach me **amr.awnyameen@gmail.com**
 
