@@ -14,7 +14,7 @@ Passionate about leveraging innovative strategies in Egypt and other countries t
 
 - 🔭 I’m currently working on [Tahaluf Al Emarat ](https://www.tahaluf.ai)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17n6kf3M7jC4o28A9enDuwqS6ufW-n1Cp/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17n6kf3M7jC4o28A9enDuwqS6ufW-n1Cp/view?usp=sharing)
 
 - 📫 How to reach me **amr.awnyameen@gmail.com**
 
