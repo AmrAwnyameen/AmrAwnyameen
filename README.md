@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Amr Awny Ameen</h1>
-<h4 align="center">
-Senior .NET Developer with over 5 years of experience specializing in the .NET stack and client-side 
-applications. Proficient in developing secure, high-performance applications, having successfully 
-delivered projects across different domains including digital transformation for Egyptian ministries, 
-customer loyalty systems, educational platforms, and transportation solutions. Passionate about 
-leveraging innovative strategies in Egypt and other countries to transform government services and 
-community ecosystems into digital, data-driven systems, enhancing public service delivery in a faster 
-and more efficient manner
-</h4>
+
+
+ Senior .NET Developer with over 5 years of experience specializing in the .NET stack and client-side applications. Proficient in developing secure, high- 
+  performance 
+  applications, having successfully delivered projects across different domains including:
+ - Digital transformation for Egyptian ministries
+ - Customer loyalty systems
+ - Educational platforms
+  - Transportation solutions
+
+Passionate about leveraging innovative strategies in Egypt and other countries to transform government services and community ecosystems into digital, data-driven systems, enhancing public service delivery in a faster and more efficient manner.
+
 
 - 🔭 I’m currently working on [Tahaluf Al Emarat ](https://www.tahaluf.ai)
 
